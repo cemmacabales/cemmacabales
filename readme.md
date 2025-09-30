@@ -87,18 +87,6 @@ class CarlMacabales:
 
 </div>
 
----
-
-## 🎯 Current Projects & Learning
-
-- 🔬 **AI Research**: Working on computer vision projects using deep learning
-- 🌐 **Full-Stack Apps**: Building modern web applications with React and Node.js
-- 📊 **Data Analytics**: Exploring data science techniques and visualization
-- ☁️ **Cloud Computing**: Learning advanced AWS and Azure services
-- 🤖 **Machine Learning**: Implementing various ML algorithms and models
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -125,15 +113,5 @@ class CarlMacabales:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlmacabales31@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/crlemmanuel_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/carl.macabales)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"The best way to predict the future is to create it."* - Peter Drucker
-
-**⭐ From [clivebixby0](https://github.com/clivebixby0) | Let's build something amazing together! 🚀**
 
 </div>
