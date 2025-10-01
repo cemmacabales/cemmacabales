@@ -97,7 +97,7 @@ class CarlMacabales:
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=clivebixby0&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cemmacabales&theme=tokyonight)
 
 </div>
 
