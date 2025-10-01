@@ -37,7 +37,6 @@ class CarlMacabales:
             "🎯 I love solving complex problems with code",
             "📚 Always learning new technologies",
             "🎮 Gaming enthusiast in my free time",
-            "☕ Coffee-powered coding sessions"
         ]
 ```
 
