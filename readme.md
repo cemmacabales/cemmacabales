@@ -46,7 +46,7 @@ class CarlMacabales:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,anaconda,mongodb,mysql,postgres,sqlite,firebase,express,fastapi,django,nodejs,spring,html,css,js,ts,react,nextjs,threejs,tailwind,bootstrap,vite,aws,azure,gcp,heroku,netlify,vercel,git,github,gitlab,npm,vscode,bash,linux,windows,notion,obsidian,cpp,java,apple,appwrite,gmail,discord,linkedin,pr,ae,photoshop,figma" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,anaconda,mongodb,mysql,postgres,firebase,express,fastapi,django,nodejs,html,css,js,ts,react,nextjs,threejs,tailwind,bootstrap,vite,aws,azure,gcp,heroku,netlify,vercel,git,github,gitlab,npm,vscode,bash,linux,windows,notion,obsidian,cpp,java,apple,appwrite,gmail,discord,linkedin,pr,ae,photoshop,figma" />
   </a>
 </p>
 
