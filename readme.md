@@ -44,15 +44,12 @@ class CarlMacabales:
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,matlab,anaconda,mongodb,mysql,postgres,sqlite,firebase,express,fastapi,django,nodejs,spring,html,css,js,ts,react,nextjs,threejs,tailwind,bootstrap,vite,aws,azure,gcp,heroku,netlify,vercel,git,github,gitlab,npm,vscode,bash,linux,windows,notion,obsidian,cpp,java,apple,appwrite,gmail,discord,linkedin,pr,ae,photoshop,figma" />
+  </a>
+</p>
 
-<!-- Combined tech stack icons using skillicons.dev, matching the attached image as closely as possible.
-     You can add/remove icons by changing the comma-separated list after ?i= in the URL below.
-     Full list at https://skillicons.dev/icons -->
-
-<img src="https://skillicons.dev/icons?i=ae,anaconda,apple,appwrite,aws,azure,bash,bootstrap,cpp,css,discord,django,express,fastapi,figma,firebase,gcp,git,github,gitlab,gmail,heroku,html,instagram,java,js,linkedin,linux,matlab,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,obsidian,photoshop,postgres,pr,python,pytorch,react,sklearn,spring,sqlite,tailwind,tensorflow,threejs,ts,twitter,vercel,vite,vscode,windows" />
-
-</div>
 
 <!-- Reference: ![image1](image1) -->
 
