@@ -27,9 +27,8 @@ class CarlMacabales:
     def current_focus(self):
         return [
             "🧠 Deep Learning & Neural Networks",
-            "🌐 Full-Stack Web Development", 
             "📊 Data Science & Analytics",
-            "☁️ Cloud Computing (AWS, Azure)"
+            "🌐 Full-Stack Web Development", 
         ]
     
     def fun_facts(self):
